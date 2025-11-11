@@ -3,20 +3,13 @@ PythonによるExcel業務自動化ポートフォリオ
 
 ## 各スクリプトの解説
 
-`calculate_tax.py`
-    Pythonの基本を学習
-`combine_excel.py`
-    複数ファイル検索とデータ結合
-`filter_data.py`
-    単一条件でのデータ抽出と日付書式設定
-`filter_complex_data.py`
-    AND条件での複数条件抽出
-`filter_or_data.py`
-    OR条件での複数条件抽出
-`calculate_groupby.py`
-    グループ別集計
-`calculate_pivot.py`
-    クロス集計表（ピボットテーブル）作成
+calculate_tax.py：　Pythonの基本を学習
+combine_excel.py：　複数ファイル検索とデータ結合
+filter_data.py：　単一条件でのデータ抽出と日付書式設定
+filter_complex_data.py：　AND条件での複数条件抽出
+filter_or_data.py：　OR条件での複数条件抽出
+calculate_groupby.py：　グループ別集計
+calculate_pivot.py：　クロス集計表（ピボットテーブル）作成
 
 
 ## 学習プロセスと課題
